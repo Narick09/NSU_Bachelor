@@ -1,0 +1,8 @@
+StorageBodySize=20
+StorageMotorSize=20
+StorageAccessorySize=30
+StorageAutoSize=100
+AccessorySuppliers=4
+Workers=3
+Dealers=4
+LogSale=1
